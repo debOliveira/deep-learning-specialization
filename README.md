@@ -1,2 +1,6 @@
-# deep-learning-specialization
- Material from the deep learning specialization from Coursera
+# Deep learning specialization
+![Status](https://img.shields.io/static/v1?style=flat&logo=github&label=status&message=on%20going&color=blue) [![GitHub license](https://img.shields.io/github/license/debOliveira/deep-learning-specialization.svg)](https://github.com/debOliveira/deep-learning-specialization/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)  [![GitHub forks](https://img.shields.io/github/forks/debOliveira/deep-learning-specialization.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/debOliveira/deep-learning-specialization/network/) [![GitHub stars](https://img.shields.io/github/stars/debOliveira/deep-learning-specialization.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/debOliveira/deep-learning-specialization/stargazers/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdebOliveira%2Fdeep-learning-specialization&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+This repository contains **the material (summary, lecture notes) and codes** from the Deep Learning Specialization ofered by Andrew Ng on Coursera. Each course has a folder, as well as each week in a course.
+
+
